@@ -1,4 +1,8 @@
 # Misc-Code-Hub
+
+![Hub](https://github.com/GabrielSiega/Misc-Code-Hub/assets/82450712/754c1343-bdfe-4d52-b2f9-13cf60b05e60)
+
+
 Project Name: Gabriel's Code Hub - A Collection of Miscellaneous Code
 
 Project Description:
@@ -19,4 +23,4 @@ Version Control and Updates: Code Hub leverages version control systems with the
 Code Hub aims to serve as a valuable resource for developers, offering them a wide range of code solutions that can be used in various miscellaneous scenarios. By providing a centralized platform for sharing and discovering code snippets, Code Hub empowers developers to streamline their development process, enhance productivity, and foster a more vibrant coding community.
 
 
-![Hub](https://github.com/GabrielSiega/Misc-Code-Hub/assets/82450712/754c1343-bdfe-4d52-b2f9-13cf60b05e60)
+
