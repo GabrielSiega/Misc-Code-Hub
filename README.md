@@ -17,3 +17,6 @@ Detailed Documentation: Each code snippet in Code Hub is accompanied by detailed
 Version Control and Updates: Code Hub leverages version control systems with the help of github to track code changes and updates. This ensures that the code snippets are up to date and compatible with the latest versions of programming languages, frameworks, and libraries.
 
 Code Hub aims to serve as a valuable resource for developers, offering them a wide range of code solutions that can be used in various miscellaneous scenarios. By providing a centralized platform for sharing and discovering code snippets, Code Hub empowers developers to streamline their development process, enhance productivity, and foster a more vibrant coding community.
+
+
+![Hub](https://github.com/GabrielSiega/Misc-Code-Hub/assets/82450712/754c1343-bdfe-4d52-b2f9-13cf60b05e60)
