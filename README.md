@@ -25,5 +25,6 @@ Code Hub aims to serve as a valuable resource for developers, offering them a wi
 
 
 The logo was made personally by the author and is designed using Canva.
-logo reference:
+
+Logo reference:
 https://www.canva.com/design/DAFlHjw_79U/rDDZ0Tk0sXCaewrPK_mr1A/view?utm_content=DAFlHjw_79U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
